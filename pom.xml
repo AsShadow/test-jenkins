@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.lxh</groupId>
     <artifactId>test-jenkins</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>test-jenkins</name>
     <description>Demo project for Spring Boot</description>
     <properties>
